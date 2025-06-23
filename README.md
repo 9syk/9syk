@@ -1,4 +1,4 @@
-## Hi there 👋
+# 見たな
 
 <!--
 **9syk/9syk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
